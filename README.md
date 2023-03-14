@@ -1,9 +1,16 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/ahteshamtariq/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/ahteshamtariq/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://raw.githubusercontent.com/ahteshamtariq/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/ahteshamtariq/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+- 🔭 I’m currently working on Ruby on Rails with Postgres database, Redis for cache
+- 🌱 I’m currently learning new technologies and architectures for optimisation
+- 💬 Ask me if you have any question
+- 📫 How to reach me: Drop me a message on <a href="https://www.linkedin.com/in/ahteshamtariq/">
+  LinkedIn
+  </a> or, send me an <a href="mailto:ahtesham068@gmail.com"> Email </a>
+
+![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **ahteshamtariq/ahteshamtariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
