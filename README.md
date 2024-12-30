@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Ruby on Rails with Postgres database, Redis for cache
-- 🌱 I’m currently learning new technologies and architectures for optimisation
+- 🔭 Currently Working with Ruby on Rails, Postgres, Redis, MongoDB, and with tech stack
+- 🌱 I’m continuesly learning new technologies and architectures for optimisation
+- 👯 I’m looking forward to collaborate on project aiming to make peopl's life easier
 - 💬 Ask me if you have any question
 - 📫 How to reach me: Drop me a message on <a href="https://www.linkedin.com/in/ahteshamtariq/">
   LinkedIn
