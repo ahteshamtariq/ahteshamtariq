@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🔭 Currently Working with Ruby on Rails, Postgres, Redis, MongoDB, and with tech stack
-- 🌱 I’m continuesly learning new technologies and architectures for optimisation
-- 👯 I’m looking forward to collaborate on project aiming to make peopl's life easier
+
+
+- 🔭 **Currently working with:** Ruby on Rails, Postgres, Redis, MongoDB, and Graphql
+- 🌱 **Continuesly learning:** new technologies and architectures for _Performance optimization and Scalable system design_ 
+- 👯 **Open to collaborate:** on projects that make people’s lives easier and solve real-world problems.
 - 💬 Ask me if you have any question
-- 📫 How to reach me: Drop me a message on <a href="https://www.linkedin.com/in/ahteshamtariq/">
+- 📫 **How to reach me:** Drop me a message on <a href="https://www.linkedin.com/in/ahteshamtariq/">
   LinkedIn
   </a> or, send me an <a href="mailto:ahtesham068@gmail.com"> Email </a>
 
