@@ -1,19 +1,23 @@
 ### Hi there 👋
 
+- 🔭 **Currently working with:** Ruby on Rails, Go, Python, GraphQL, Postgres, Redis, OpenSearch, AWS, Terraform, and Datadog
+- 🌱 **Continuously learning:** new technologies and architectures for _performance optimization and scalable system design_
+- 👯 **Open to collaborate:** on projects that make people’s lives easier and solve real-world problems
+- 💬 **Ask me anything**
+- 📫 **How to reach me:** drop me a message on [LinkedIn](https://www.linkedin.com/in/ahteshamtariq/) or send me an [email](mailto:ahtesham068@gmail.com)
 
+#### Tech stack
 
-- 🔭 **Currently working with:** Ruby on Rails, Postgres, Redis, MongoDB, and Graphql
-- 🌱 **Continuesly learning:** new technologies and architectures for _Performance optimization and Scalable system design_ 
-- 👯 **Open to collaborate:** on projects that make people’s lives easier and solve real-world problems.
-- 💬 Ask me if you have any question
-- 📫 **How to reach me:** Drop me a message on <a href="https://www.linkedin.com/in/ahteshamtariq/">
-  LinkedIn
-  </a> or, send me an <a href="mailto:ahtesham068@gmail.com"> Email </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=ruby,rails,go,py,ts,graphql,postgres,redis,mongodb,elasticsearch,aws,terraform,docker,githubactions,sentry&perline=8" alt="Ruby, Rails, Go, Python, TypeScript, GraphQL, Postgres, Redis, MongoDB, Elasticsearch, AWS, Terraform, Docker, GitHub Actions, Sentry" />
+</p>
 
-![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/generated/languages.svg#gh-light-mode-only)
+#### GitHub stats
+
+<p>
+  <img src="https://raw.githubusercontent.com/ahteshamtariq/github-stats/generated/overview.svg" alt="GitHub stats overview" />
+  <img src="https://raw.githubusercontent.com/ahteshamtariq/github-stats/generated/languages.svg" alt="Languages used" />
+</p>
 
 <!--
 **ahteshamtariq/ahteshamtariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
