@@ -10,10 +10,10 @@
   LinkedIn
   </a> or, send me an <a href="mailto:ahtesham068@gmail.com"> Email </a>
 
-![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ahteshamtariq/github-stats/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **ahteshamtariq/ahteshamtariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
